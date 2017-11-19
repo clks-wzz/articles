@@ -1,2 +1,3 @@
 # articles
-Articles about the 
+Blogs of mine
+major in bugs, installation, dev-environment, techniques and so on.
